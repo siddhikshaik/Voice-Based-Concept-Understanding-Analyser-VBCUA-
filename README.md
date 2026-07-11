@@ -146,11 +146,13 @@ http://localhost:8501
 
 ---
 
-## 👨‍💻 Author
+---
+
+## 👨‍💻 Developed By
 
 **Siddhik Shaik**
 
-B.Tech – Computer Science and Engineering
+B.Tech Computer Science & Engineering (CSE)
 
 Lakireddy Bali Reddy College of Engineering
 
@@ -158,6 +160,22 @@ GitHub: https://github.com/siddhikshaik
 
 ---
 
-## 📄 License
+## 📜 License
 
-This project is developed for educational and learning purposes.
+This project is developed for educational and academic purposes.
+
+---
+
+## ⭐ Acknowledgements
+
+- SmartBridge
+- Skill Wallet
+- Lakireddy Bali Reddy College of Engineering
+- Streamlit
+- OpenAI Whisper
+- Sentence Transformers
+- Librosa
+- ReportLab
+- Python Open Source Community
+
+---
